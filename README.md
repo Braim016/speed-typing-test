@@ -16,6 +16,9 @@ The modules used in this repo include
 ## Known Bugs
 There are currently no known bugs
 
+## Future Releases
+The next release will be sourcing text from an API as opposed to manually coding texts into the program.
+
 ## Contributing
 To contribute to this repo:
 - Fork the repo
